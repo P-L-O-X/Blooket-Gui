@@ -1,3 +1,5 @@
+-Hint: Click raw and you can do CTRL + A and then  CTRL + C to instantly have the code copied.
+
 (() => {
     const cheat = (async () => {
         if (String(Function.prototype.call).includes('native')) {
